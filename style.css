@@ -1,0 +1,41 @@
+.outer{
+    background-color: black;
+    height: 100vh;
+    width: 800px;
+    margin: 100px auto;
+    border-radius:8px;
+}
+
+.contain h2{
+    color: white;
+    padding-top: 50px;
+    font-family: CircularSp, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 30px;
+}
+
+img{
+    height: 50px;
+    width: 50px;
+    
+}
+
+.socialmediaa{
+    color: white;
+    text-align: center;
+    font-weight: 600;
+    font-family: CircularSp, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    height:40px;
+    width:300px;
+    border:1px solid rgba(255, 255, 255,0.5);
+    border-radius: 40px;
+    padding-top: 8px;
+    margin-bottom: 10px;
+}
+#social{
+    position:relative;
+    left:125px;
+}
+
+hr{
+    opacity: 0.5;
+}
